@@ -2,7 +2,7 @@
 function App() {
   return (
     <div className="App">
-      app
+      this is reactjc app
     </div>
   );
 }
